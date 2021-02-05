@@ -2,7 +2,7 @@
 
 eCommerce Website Using Elementor Pro
 
-click: sunshine.actest.club/wp-admin
+Go to sunshine.actest.club/wp-admin
 
 
 
